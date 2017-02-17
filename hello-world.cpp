@@ -1,3 +1,4 @@
+// C++ Example Code By Darren Rainey 2017 https://github.com/DarrenRainey/CPP-Examples
 #include <stdio.h> // Include standard c header file
 #include <iostream> // Include iostream for c plus plus functions
 
