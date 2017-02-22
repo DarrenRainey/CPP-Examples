@@ -1,6 +1,6 @@
 // C++ Example Code By Darren Rainey 2017 https://github.com/DarrenRainey/CPP-Examples
 
-include <stdio.h> // Import standard libarys header file
+#include <stdio.h> // Import standard libarys header file
 #include <iostream> // Import IO stream header file
 #include <fstream> // Import fstream Header file for file creation
 
